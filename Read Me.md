@@ -4,15 +4,14 @@ An interactive Power BI dashboard designed to analyze Amazon sales data and unco
 
 ---
 
-## 1. Project Title / Headline
+## 1. Amazon Sales Analytics Dashboard
 
-### 🛒 Amazon Sales Analytics Dashboard
 
 An interactive data visualization dashboard built using Power BI to explore Amazon sales performance, product demand, order fulfillment, courier status, and state-wise distribution.
 
 ---
 
-## 2. Short Description / Purpose
+## 2. Purpose
 
 The Amazon Sales Analytics Dashboard is a Power BI report developed to analyze 40,000+ Amazon sales records and transform transactional data into meaningful business insights.
 
@@ -111,4 +110,4 @@ The dashboard was designed to:
 
 ### Dashboard Preview
 
-![Amazon Sales Analytics Dashboard](./images/amazon-sales-dashboard.png)
+
