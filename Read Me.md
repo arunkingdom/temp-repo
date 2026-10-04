@@ -107,4 +107,6 @@ The dashboard was designed to:
 
 ### Dashboard Preview
 
+![Uploading Amazon Sales Report_Udaya Dharani_page-0001.jpg…]()
+
 
