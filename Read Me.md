@@ -107,6 +107,7 @@ The dashboard was designed to:
 
 ### Dashboard Preview
 
-![Uploading Amazon Sales Report_Udaya Dharani_page-0001.jpg…]()
+<img width="2700" height="3450" alt="Amazon Sales Report_Udaya Dharani_page-0001" src="https://github.com/user-attachments/assets/0069e639-1d49-472b-a6b9-dd2da9b96b53" />
+
 
 
